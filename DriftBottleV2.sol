@@ -24,8 +24,8 @@ contract DriftBottleV2 {
     //合约创建者
     address public immutable owner;
 
-    //漂流瓶自增id
-    uint64 bottleId = 1;
+    //漂流瓶自增id 应该改成public,让前端界面可查,从而确定bottle_id的范围,方便获取
+    uint64 public bottleId = 1;
 
     //漂流瓶mapping
     mapping(uint64 => Bottle) private driftBottles;
