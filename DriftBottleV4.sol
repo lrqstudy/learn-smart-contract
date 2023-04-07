@@ -3,10 +3,15 @@ pragma solidity ^0.8.19;
 
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
+
 /// @author lrqstudy
 /// @dev 我的练手项目,区块链漂流瓶 driftbottle, 跟我们现实世界中玩的一样
 
 /// @dev https://github.com/lrqstudy/learn-smart-contract/blob/main/DriftBottleV4.sol
+
+DriftBottleV4 Contract addrss(base goerli )
+
+https://goerli.basescan.org/address/0x3fc6a1790A09A5e38918eE3dbc1eEaB6698bBFAe
 
 /*
 v4版本
