@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 /// @author lrqstudy
 /// @dev 我的练手项目,区块链漂流瓶 driftbottle, 跟我们现实世界中玩的一样
 
-/// @dev https://github.com/lrqstudy/learn-smart-contract/blob/main/DriftBottleV3.sol
+/// @dev https://github.com/lrqstudy/learn-smart-contract/blob/main/DriftBottleV4.sol
 
 /*
 v4版本
